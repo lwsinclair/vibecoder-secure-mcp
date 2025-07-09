@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rvanheckers-vibecoder-secure-mcp-badge.png)](https://mseep.ai/app/rvanheckers-vibecoder-secure-mcp)
+
 <!--
 VIBECODER-SECURE MCP - Project README (Public Documentation)
 Main project documentation for GitHub and external users
